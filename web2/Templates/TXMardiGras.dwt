@@ -1,0 +1,35 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<!-- TemplateBeginEditable name="doctitle" -->
+<title>Untitled Document</title>
+<!-- TemplateEndEditable -->
+<!-- TemplateBeginEditable name="head" -->
+<!-- TemplateEndEditable -->
+<link href="../week8/txmardigras.css" rel="stylesheet" type="text/css">
+</head>
+
+<body>
+<header id="pageHeader"><img src="../week8/images/carnivalmask.jpg" width="960" height="174" alt=""/></header>
+<nav id="pageNav">
+  <ul>
+    <li><a href="../week8/index.html">HOME</a></li>
+    <li><a href="../week8/about us.html">ABOUT US</a></li>
+    <li><a href="../week8/attractions.html">ATTRACTIONS</a></li>
+    <li><a href="../week8/photo gallery.html">PHOTO GALLERY</a></li>
+    <li><a href="../week8/contact us.html">CONTACT US</a></li> 
+  </ul>
+</nav>
+<section id="mainContent">
+  <article id="contentArticle"><!-- TemplateBeginEditable name="mainText" -->
+  <img src="../week8/images/General images/rio-carnival-mask2.jpg" width="960" height="649" alt=""/> <!-- TemplateEndEditable --></article>
+  <aside id="contentAside">
+   
+  </aside>
+</section>
+<footer id="pageFooter">
+  <p>&copy; 2016 Texas Mardi Gras Entertainment | <a href="../index.html">Laurence Mwangi</a> | Web Design II</p>
+</footer>
+</body>
+</html>

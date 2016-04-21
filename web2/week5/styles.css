@@ -1,0 +1,38 @@
+@charset "utf-8";
+#pageHeader h1 {
+	font-family: Georgia, "Times New Roman", serif;
+	text-align: left;
+	font-style: italic;
+	font-weight: lighter;
+	font-size: 3em;
+	padding-bottom: 20px;
+	padding-top: 10px;
+	border-bottom-width: thin;
+	border-bottom-style: solid;
+	color: #DFFF3F;
+}
+
+
+body {
+	width: 960px;
+	padding-left: auto;
+	padding-right: auto;
+	background-color: #313B01;
+	color: #DFFF3F;
+	font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", serif;
+	line-height: 1.5em;
+	margin-left: auto;
+	margin-right: auto;
+	font-size: 20px;
+}
+
+#pageMain h2 a:hover  {
+	color: #DFFF3F;
+	text-decoration: none;
+}
+
+#pageFooter p {
+	font-family: Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif;
+	font-size: small;
+	text-align: center;
+}

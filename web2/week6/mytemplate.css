@@ -1,0 +1,124 @@
+@charset "utf-8";
+
+* {
+	margin: 0;
+	padding-top: 0;
+	padding-right: 0;
+	padding-left: 0;
+	padding-bottom: 0;
+	border: none;
+}
+	
+body {
+	width: 960px;
+	margin-right: auto;
+	margin-left: auto;
+	background-color: #CCAF47;
+}
+#pageHeader {
+	width: 960px;
+	height: 174px;
+	border: 3px solid #173D00;
+}
+#mainContent #contentArticle p {
+	font-family: Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, sans-serif;
+	width: 585px;
+	padding-left: 10px;
+	padding-right: 5px;
+}
+
+
+#pageNav {
+	width: 960px;
+	height: 30px;
+	left: auto;
+	right: auto;
+}
+#pageNav ul {
+	margin: 0;
+	padding: 0;
+	list-style-type: none;
+	overflow-x: hidden;
+	overflow-y: hidden;
+	background-color: #CCAF47;
+}
+#pageNav ul li {
+	float:left;
+	}
+#pageNav ul li a {
+	display: block;
+	padding-top: 14px;
+	padding-right: 16px;
+	text-decoration: none;
+	padding-bottom: 14px;
+	padding-left: 16px;
+	color: #FFFFFF;
+	font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
+	font-style: normal;
+	font-weight: bold;
+	font-size: medium;
+}
+#pageNav ul li ahover {
+	color: #000000;
+	}
+
+#mainContent {
+	width: 960px;
+	margin-left: auto;
+	margin-right: auto;
+	float: left;
+	margin-top: auto;
+	padding-top: 20px;
+	padding-bottom: 20px;
+}
+#mainContent #contentArticle {
+	width: 585px;
+	/* [disabled]height: 400px; */
+	float: left;
+	margin-right: 10px;
+}
+
+#mainContent #contentAside {
+	width: 345px;
+	/* [disabled]height: 400px; */
+	float: left;
+	padding-left: 10px;
+	padding-right: 10px;
+	font-family: Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, sans-serif;
+	padding-top: 15px;
+}
+#mainContent #contentAside p {
+	padding: 10px;
+	background-color: #FFF0D3;
+}
+#mainContent #contentAside h2 {
+	margin-top: 20px;
+	color: #504A4C;
+	font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", serif;
+	font-style: italic;
+	background-color: #FFF0D3;
+	padding-left: 10px;
+}
+
+#pageFooter {
+	width: 960px;
+	height: 50px;
+	float: left;
+	border: thin solid #CCAF47;
+	background-color: #000000;
+}
+#pageFooter p {
+	text-align: center;
+	font-family: Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif;
+	font-size: 0.8em;
+	margin-top: 10px;
+	color: #CCAF47;
+	text-decoration: none;
+	padding-top: 10PX;
+}
+#mainContent #contentArticle h1 {
+	font-size: 2em;
+	font-style: italic;
+	color: #504A4C;
+	margin-top: 20px;
+}

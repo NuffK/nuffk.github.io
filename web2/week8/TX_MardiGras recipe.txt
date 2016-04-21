@@ -1,0 +1,6 @@
+nav: pageNav 960px
+logo: mainLogo
+section: mainContent 960px
+	article: contentArticle 600px
+	aside: contentAside 360px
+footer: pageFooter 960px	
